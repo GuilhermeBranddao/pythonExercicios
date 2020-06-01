@@ -1,0 +1,6 @@
+num1 = int(input("Degite um numero inteiro: "))
+num2 = int(input("Degite outro numero inteiro: "))
+num3 = float(input("Degite um numero real: "))
+print("O produto do dobro do primeiro com a metade do segundo, é igual a: {}".format((num1 * 2) + (num2 / 2)))
+print("A soma do triplo do primeiro com o terceiro, é igual a {}".format((num1 * 2)+ num3))
+print("O terceiro elevado ao cubo, é igual a {}".format(num3 ** 3))
